@@ -1,0 +1,11 @@
+− | &minus;
+
+× | &times;
+ 
+÷ | &divide;
+  
++ | &plus;
+
+← | &larr; 
+
+= | &equals;
